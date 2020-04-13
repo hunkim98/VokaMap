@@ -1,98 +1,61 @@
-import React from "react";
-import {
-  StyleSheet,
-  Text,
-  View,
-  Animated,
-  Dimensions,
-  Platform,
-  PanResponder,
-  Component
-} from "react-native";
-import { PanGestureHandler, State } from "react-native-gesture-handler";
+import React, { useContext } from "react";
+import BooleanContextProvider from "./global_variable/global";
+import { UserContext } from "./global_variable/global";
+import { Button, Text } from "react-native";
+import { TouchableWithoutFeedback } from "react-native-gesture-handler";
+import Svg, { Line } from "react-native-svg";
+import { createStackNavigator } from "@react-navigation/stack";
+import { createAppContainer } from "react-navigation";
+import { NavigationContainer } from "@react-navigation/native";
 
-var deviceHeight = Dimensions.get("window").height;
-var deviceWidth = Dimensions.get("window").width;
+import Mindmap from "./screens/mindmap";
+import 집 from "./screens/집";
 
-export default class App extends React.Component {
+const Stack = createStackNavigator();
+
+export default class Navigator1 extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      pan: new Animated.ValueXY()
+      step1: false,
+      step2: "change",
+      step3: "default",
     };
   }
 
-  componentWillMount() {
-    this._panResponder = PanResponder.create({
-      onMoveShouldSetResponderCapture: () => true,
-      onMoveShouldSetPanResponderCapture: () => true,
-
-      onPanResponderGrant: (e, gestureState) => {
-        this.state.pan.setOffset({
-          x: this.state.pan.x._value,
-          y: this.state.pan.y._value
-        });
-        this.state.pan.setValue({ x: 0, y: 0 });
-      },
-
-      onPanResponderMove: Animated.event([
-        null,
-        { dx: this.state.pan.x, dy: this.state.pan.y }
-      ]),
-
-      onPanResponderRelease: (e, { vx, vy }) => {
-        this.state.pan.flattenOffset();
-      }
-    });
-  }
+  press집 = () => {
+    this.setState({ step1: true });
+  };
 
   render() {
-    let { pan } = this.state;
-
-    let [translateX, translateY] = [pan.x, pan.y];
-
-    let imageStyle = { transform: [{ translateX }, { translateY }] };
-
     return (
-      <View style={styles.container}>
-        <Animated.View style={imageStyle} {...this._panResponder.panHandlers}>
-          <View style={styles.flexBox}>
-            <View style={styles.CircleShape}>
-              <Text style={styles.TextShape}>집</Text>
-            </View>
-          </View>
-        </Animated.View>
-      </View>
+      <NavigationContainer>
+        <Stack.Navigator initialRouteName="Home">
+          <Stack.Screen
+            name="Mindmap"
+            component={Mindmap}
+            initialParams={{ step1: false, step3: this.state.step3 }}
+            options={{ headerShown: false }}
+          />
+          <Stack.Screen
+            name="집"
+            component={집}
+            options={{
+              title: "",
+              headerRight: () => (
+                <TouchableWithoutFeedback
+                  onPress={this.press집}
+                  style={{ marginRight: 10 }}
+                >
+                  <Text style={{ fontSize: 16, color: "#00cc00" }}>
+                    {this.state.step1 ? "Confirmed" : "Confirm"}
+                  </Text>
+                </TouchableWithoutFeedback>
+              ),
+            }}
+          />
+        </Stack.Navigator>
+      </NavigationContainer>
     );
   }
 }
-
-const styles = StyleSheet.create({
-  container: {
-    width: deviceWidth * 1,
-    height: deviceHeight * 1,
-    backgroundColor: "#8e44ad",
-    alignItems: "center",
-    justifyContent: "center"
-  },
-  flexBox: {
-    width: deviceHeight * 2,
-    height: deviceHeight * 2,
-    backgroundColor: "#fff",
-    alignItems: "center",
-    justifyContent: "center"
-  },
-  CircleShape: {
-    width: 150,
-    height: 150,
-    borderRadius: 150 / 2,
-    backgroundColor: "#27ae60",
-    justifyContent: "center",
-    alignItems: "center"
-  },
-  TextShape: {
-    color: "white",
-    fontSize: 30,
-    fontWeight: "bold"
-  }
-});

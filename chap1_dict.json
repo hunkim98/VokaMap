@@ -1,0 +1,1626 @@
+{
+    "가구": [
+        {
+            "definition_E": "Objects used in a house such as a bed, chest, table, etc.",
+            "definition_K": "집 안에서 쓰이는 침대, 옷장, 식탁 등과 같은 도구.",
+            "examples": [
+                "목재 가구.",
+                "부엌 가구.",
+                "가구를 두다.",
+                "가구를 들여놓다.",
+                "가구를 마련하다.",
+                "가구를 배치하다.",
+                "가구를 비치하다.",
+                "가구를 장만하다."
+            ],
+            "word_E": "furniture"
+        }
+    ],
+    "거실": [
+        {
+            "definition_E": "The central room in a western house, where family members spend time together or talk with visitors.",
+            "definition_K": "서양식 집에서, 가족이 모여서 생활하거나 손님을 맞는 중심 공간.",
+            "examples": [
+                "거실에 모이다.",
+                "거실에 앉다.",
+                "거실에 있다.",
+                "거실에서 놀다.",
+                "거실에서 보내다.",
+                "거실에서 쉬다."
+            ],
+            "word_E": "living room"
+        }
+    ],
+    "거울": [
+        {
+            "definition_E": "A thin, flat object reflecting the appearance of an object or person.",
+            "definition_K": "1.물체의 모양을 비추어 보는 얇고 평평한 물건.",
+            "examples": [
+                "대형 거울.",
+                "거울을 깨다.",
+                "거울을 깨뜨리다.",
+                "거울을 들여다보다.",
+                "거울을 보다.",
+                "거울에 비추다.",
+                "거울에 비치다."
+            ],
+            "word_E": "1.mirror"
+        },
+        {
+            "definition_E": "(figurative) Something disclosing or showing a certain fact as it is.",
+            "definition_K": "2.(비유적으로) 어떤 사실을 그대로 드러내거나 보여 주는 것.",
+            "examples": [
+                "거울이 되다.",
+                "마음의 거울.",
+                "시대의 거울.",
+                "현실의 거울.",
+                "현실을 비치는 거울."
+            ],
+            "word_E": "2.mirror"
+        },
+        {
+            "definition_E": "Something to benchmark or that gives a lesson.",
+            "definition_K": "3.모범이나 교훈이 될 만한 것.",
+            "examples": [
+                "거울이 되다.",
+                "거울로 하다."
+            ],
+            "word_E": "3.example"
+        }
+    ],
+    "건너다": [
+        {
+            "definition_E": "To cross or pass through something to move over to the opposite side of it.",
+            "definition_K": "1.무엇을 넘거나 지나서 맞은편으로 이동하다.",
+            "examples": [
+                "강을 건너다.",
+                "개울을 건너다.",
+                "개천을 건너다.",
+                "건널목을 건너다.",
+                "계곡을 건너다.",
+                "길을 건너다.",
+                "냇물을 건너다.",
+                "다리를 건너다.",
+                "도로를 건너다.",
+                "물을 건너다.",
+                "바다를 건너다.",
+                "육교를 건너다.",
+                "지하도를 건너다.",
+                "찻길을 건너다.",
+                "횡단보도를 건너다."
+            ],
+            "word_E": "1.cross; go across"
+        },
+        {
+            "definition_E": "For words or rumors to be delivered to another person.",
+            "definition_K": "2.말이나 소문이 다른 사람에게 전해지다.",
+            "examples": [
+                "건너서 퍼지다.",
+                "입을 건너다."
+            ],
+            "word_E": "2.be passed on; be transmitted"
+        },
+        {
+            "definition_E": "To omit a certain step, turn, etc., and go over to the next one.",
+            "definition_K": "3.순서나 차례 등을 빼고 거르다.",
+            "examples": [
+                "끼니를 건너다.",
+                "두 끼를 건너다.",
+                "때를 건너다.",
+                "순서를 건너다.",
+                "차례를 건너다."
+            ],
+            "word_E": "3.skip"
+        }
+    ],
+    "고속버스": [
+        {
+            "definition_E": "A bus that usually uses the freeway and travels a long distance at high speed.",
+            "definition_K": "주로 고속 도로를 이용하여 먼 거리를 빠른 속도로 다니는 버스.",
+            "examples": [
+                "고속버스 터미널.",
+                "고속버스 표.",
+                "고속버스를 타다.",
+                "고속버스에 오르다.",
+                "고속버스에서 내리다."
+            ],
+            "word_E": "express bus"
+        }
+    ],
+    "국": [
+        {
+            "definition_E": "soup: A dish made by boiling meat, fish or vegetables in a lot of water.",
+            "definition_K": "1.고기나 생선, 채소 등에 물을 많이 붓고 끓인 음식.",
+            "examples": [
+                "뜨거운 국.",
+                "시원한 국.",
+                "국 한 그릇.",
+                "국 건더기.",
+                "국이 식다.",
+                "국이 뜨겁다.",
+                "국을 끓이다.",
+                "국을 뜨다."
+            ],
+            "word_E": "1.guk"
+        },
+        {
+            "definition_E": "In a dish like a soup or stew, liquid left after solid ingredients have been taken out.",
+            "definition_K": "2.국이나 찌개 등의 음식에서 건더기를 빼고 남은 물.",
+            "examples": [
+                "국이 뜨겁다.",
+                "국을 떠먹다.",
+                "국을 뜨다.",
+                "국을 마시다.",
+                "국에 말다."
+            ],
+            "word_E": "2.soup"
+        }
+    ],
+    "기차": [
+        {
+            "definition_E": "A lengthy series of vehicles that carry people or goods and run on a railroad, usually by the power of diesel fuel or electric power.",
+            "definition_K": "사람이나 물건을 싣고 연료의 힘으로 철도 위를 달리는, 길이가 긴 차.",
+            "examples": [
+                "새벽 기차.",
+                "기차 여행.",
+                "기차 요금.",
+                "기차가 오다.",
+                "기차가 떠나다.",
+                "기차가 달리다.",
+                "기차가 움직이다.",
+                "기차가 지나가다.",
+                "기차를 갈아타다.",
+                "기차를 놓치다.",
+                "기차를 타다.",
+                "기차에 싣다.",
+                "기차에 탑승하다.",
+                "기차에서 내리다."
+            ],
+            "word_E": "train"
+        }
+    ],
+    "기차역": [
+        {
+            "definition_E": "A place to get on or off a train.",
+            "definition_K": "기차를 타고 내리는 장소.",
+            "examples": [
+                "기차역을 지나가다.",
+                "기차역을 출발하다.",
+                "기차역에 가다.",
+                "기차역에 도착하다.",
+                "기차역에서 마중하다.",
+                "기차역에서 만나다.",
+                "기차역에서 배웅하다."
+            ],
+            "word_E": "train station"
+        }
+    ],
+    "꿈": [
+        {
+            "definition_E": "A mental phenomenon during one's sleep, in which one sees, hears, and feels just as if one is awake.",
+            "definition_K": "1.잠자는 동안에 깨어 있을 때처럼 보고 듣고 느끼는 정신 현상.",
+            "examples": [
+                "나쁜 꿈.",
+                "뒤숭숭한 꿈.",
+                "무서운 꿈.",
+                "좋은 꿈.",
+                "꿈을 꾸다.",
+                "꿈을 풀이하다.",
+                "꿈을 해몽하다.",
+                "꿈에 나오다."
+            ],
+            "word_E": "1.dream"
+        },
+        {
+            "definition_E": "A wish or goal one wants to accomplish in the future.",
+            "definition_K": "2.앞으로 이루고 싶은 희망이나 목표.",
+            "examples": [
+                "높은 꿈.",
+                "꿈이 많다.",
+                "꿈이 없다.",
+                "꿈이 있다.",
+                "꿈을 가지다.",
+                "꿈을 꾸다.",
+                "꿈을 버리다.",
+                "꿈을 실현하다.",
+                "꿈을 이루다.",
+                "꿈을 포기하다."
+            ],
+            "word_E": "2.goal; wish"
+        },
+        {
+            "definition_E": "A vain expectation or thought about something, whose possibility is extremely low or none.",
+            "definition_K": "3.이루어질 가능성이 아주 적거나 없는 헛된 기대나 생각.",
+            "examples": [
+                "한낱 꿈.",
+                "허황된 꿈.",
+                "헛된 꿈.",
+                "꿈이 크다.",
+                "꿈에 불과하다."
+            ],
+            "word_E": "3.vain hope"
+        }
+    ],
+    "냉장고": [
+        {
+            "definition_E": "A box-shaped machine used to store food at a low temperature in order to keep it cold or to prevent it from going bad.",
+            "definition_K": "음식을 상하지 않게 하거나 차갑게 하려고 낮은 온도에서 보관하는 상자 모양의 기계.",
+            "examples": [
+                "가정용 냉장고.",
+                "대형 냉장고.",
+                "소형 냉장고.",
+                "영업용 냉장고.",
+                "꽉 찬 냉장고.",
+                "텅 빈 냉장고.",
+                "냉장고 문.",
+                "냉장고를 닫다.",
+                "냉장고를 비우다.",
+                "냉장고를 열다.",
+                "냉장고를 채우다.",
+                "냉장고에 넣다.",
+                "냉장고에 보관하다."
+            ],
+            "word_E": "refrigerator; fridge"
+        }
+    ],
+    "대중교통": [
+        {
+            "definition_E": "Transportation modes used by the general public such as the bus or subway.",
+            "definition_K": "버스나 지하철과 같이 여러 사람이 이용하는 교통. 또는 교통수단.",
+            "examples": [
+                "대중교통을 이용하다.",
+                "대중교통을 타다.",
+                "대중교통으로 가다.",
+                "대중교통으로 오다."
+            ],
+            "word_E": "public transportation"
+        }
+    ],
+    "도로": [
+        {
+            "definition_E": "A path built for cars and people to travel.",
+            "definition_K": "사람이나 차가 잘 다닐 수 있도록 만들어 놓은 길.",
+            "examples": [
+                "통제된 도로.",
+                "도로 공사.",
+                "도로 표시.",
+                "도로가 나다.",
+                "도로를 건너다.",
+                "도로를 넓히다.",
+                "도로를 만들다.",
+                "도로로 다니다."
+            ],
+            "word_E": "road"
+        }
+    ],
+    "동네": [
+        {
+            "definition_E": "The area nearby one's home.",
+            "definition_K": "1.자기가 사는 집 근처.",
+            "examples": [
+                "동네 꼬마들.",
+                "동네 사람들.",
+                "동네 어른.",
+                "동네가 떠들썩하다.",
+                "동네에 소문이 퍼지다."
+            ],
+            "word_E": "1.neighborhood; village"
+        },
+        {
+            "definition_E": "An area where a number of households reside together.",
+            "definition_K": "2.여러 집들이 모여 있어 사람들이 사는 곳.",
+            "examples": [
+                "산골 동네.",
+                "같은 동네.",
+                "동네 구경.",
+                "동네 밖.",
+                "동네 안.",
+                "동네 입구."
+            ],
+            "word_E": "2.neighborhood"
+        }
+    ],
+    "미역국": [
+        {
+            "definition_E": "A soup that is made with seaweed.",
+            "definition_K": "미역을 넣어 끓인 국.",
+            "examples": [
+                "따뜻한 미역국.",
+                "맛있는 미역국.",
+                "미역국을 끓이다.",
+                "미역국을 먹다.",
+                "미역국을 좋아하다."
+            ],
+            "word_E": "miyeokguk"
+        }
+    ],
+    "밥": [
+        {
+            "definition_E": "A dish made by boiling rice and other grains until the water has cooked away.",
+            "definition_K": "1.쌀과 다른 곡식에 물을 붓고 물이 없어질 때까지 끓여서 익힌 음식.",
+            "examples": [
+                "밥이 되다.",
+                "밥이 설익다.",
+                "밥이 익다.",
+                "밥이 질다.",
+                "밥이 타다.",
+                "밥을 담다.",
+                "밥을 뜨다.",
+                "밥을 먹다.",
+                "밥을 볶다.",
+                "밥을 안치다.",
+                "밥을 짓다.",
+                "밥을 태우다.",
+                "밥을 푸다."
+            ],
+            "word_E": "1.steamed rice; rice"
+        },
+        {
+            "definition_E": "Food that is eaten at particular times of the day.",
+            "definition_K": "2.매일 일정한 때에 먹는 음식.",
+            "examples": [
+                "밥 한 끼.",
+                "밥 생각.",
+                "밥을 거르다.",
+                "밥을 구걸하다.",
+                "밥을 굶다.",
+                "밥을 먹다.",
+                "밥을 사다.",
+                "밥을 얻어먹다.",
+                "밥을 주다.",
+                "밥을 차리다.",
+                "밥을 축내다."
+            ],
+            "word_E": "2.meal"
+        },
+        {
+            "definition_E": "Food that animals eat.",
+            "definition_K": "3.동물이 먹는 먹이.",
+            "examples": [
+                "고양이 밥.",
+                "까치 밥.",
+                "늑대 밥.",
+                "돼지 밥.",
+                "사자 밥.",
+                "호랑이 밥.",
+                "맹수의 밥."
+            ],
+            "word_E": "3.feed"
+        },
+        {
+            "definition_E": "Something that one should take possession of.",
+            "definition_K": "4.자기가 차지해야 할 것.",
+            "examples": [
+                "자기 밥.",
+                "제 밥.",
+                "밥을 빼앗다.",
+                "밥을 지키다.",
+                "밥을 찾아 먹다.",
+                "밥을 챙기다."
+            ],
+            "word_E": "4.interests"
+        },
+        {
+            "definition_E": "(figurative) Someone who is used or sacrificed by someone else.",
+            "definition_K": "5.(비유적으로) 다른 사람에게 이용당하거나 희생되는 사람.",
+            "examples": [
+                "권력의 밥.",
+                "상사의 밥.",
+                "친구의 밥.",
+                "밥이 되다.",
+                "밥으로 생각하다.",
+                "밥으로 여기다."
+            ],
+            "word_E": "5.pushover"
+        }
+    ],
+    "버스": [
+        {
+            "definition_E": "A large vehicle designed to carry passengers along a fixed route for a fare.",
+            "definition_K": "돈을 받고 정해진 길을 다니며 많은 사람을 실어 나르는 큰 자동차.",
+            "examples": [
+                "대형 버스.",
+                "전세 버스.",
+                "통근 버스.",
+                "버스 기사.",
+                "버스 노선.",
+                "버스 번호.",
+                "버스 승객.",
+                "버스 요금.",
+                "버스 운행.",
+                "버스 종점.",
+                "버스 터미널.",
+                "버스 회사.",
+                "버스가 다니다.",
+                "버스를 갈아타다.",
+                "버스를 기다리다.",
+                "버스를 놓치다.",
+                "버스를 이용하다.",
+                "버스를 타다.",
+                "버스에 타다.",
+                "버스에서 내리다."
+            ],
+            "word_E": "bus"
+        }
+    ],
+    "부엌": [
+        {
+            "definition_E": "An area in a house where meal-related work such as cooking, dishwashing, etc., is done.",
+            "definition_K": "집에서 음식을 만들고 설거지를 하는 등 식사와 관련된 일을 하는 장소.",
+            "examples": [
+                "부엌 청소.",
+                "부엌 겸 거실.",
+                "부엌을 치우다.",
+                "부엌에 가다.",
+                "부엌에 나가다.",
+                "부엌에 들어오다.",
+                "부엌에서 식사를 하다.",
+                "부엌에서 음식을 하다."
+            ],
+            "word_E": "kitchen"
+        }
+    ],
+    "불고기": [
+        {
+            "definition_E": "barbequed beef: Traditional Korean food made by roasting seasoned slices of pork or beef.",
+            "definition_K": "얇게 썰어 양념한 돼지고기나 쇠고기를 불에 구운 한국 전통 음식.",
+            "examples": [
+                "맛있는 불고기.",
+                "불고기 일 인분.",
+                "불고기 양념.",
+                "불고기 전문점.",
+                "불고기가 익다.",
+                "불고기를 굽다.",
+                "불고기를 만들다.",
+                "불고기를 먹다.",
+                "불고기를 시키다."
+            ],
+            "word_E": "bulgogi"
+        }
+    ],
+    "비누": [
+        {
+            "definition_E": "A substance that one uses for removing dirt on the body or clothing by lathering with water.",
+            "definition_K": "물을 묻혀서 거품을 내어 몸이나 옷에 묻은 때를 씻는 데 쓰는 물건.",
+            "examples": [
+                "천연 비누.",
+                "비누 거품.",
+                "비누 냄새.",
+                "비누를 문지르다.",
+                "비누를 묻히다.",
+                "비누로 닦다.",
+                "비누로 씻다."
+            ],
+            "word_E": "soap"
+        }
+    ],
+    "설거지": [
+        {
+            "definition_E": "The act of washing and putting away the dishes after eating.",
+            "definition_K": "음식을 먹고 난 뒤에 그릇을 씻어서 정리하는 일.",
+            "examples": [
+                "설거지 당번.",
+                "설거지를 거들다.",
+                "설거지를 끝내다.",
+                "설거지를 돕다.",
+                "설거지를 하다."
+            ],
+            "word_E": "dishwashing; doing the dishes"
+        }
+    ],
+    "세수": [
+        {
+            "definition_E": "The act of washing one's hands or face with water.",
+            "definition_K": "물로 손이나 얼굴을 씻음.",
+            "examples": [
+                "고양이 세수.",
+                "찬물 세수.",
+                "세수 방법.",
+                "세수를 시키다.",
+                "세수를 하다."
+            ],
+            "word_E": "washing up"
+        }
+    ],
+    "소고기": [
+        {
+            "definition_E": "Meat from cow, bull or ox.",
+            "definition_K": "소의 고기.",
+            "examples": [
+                "국산 소고기.",
+                "소고기 국.",
+                "소고기 반찬.",
+                "소고기 등심.",
+                "소고기 안심.",
+                "소고기 판매.",
+                "소고기 도매.",
+                "소고기 불고기.",
+                "소고기 스테이크.",
+                "소고기가 비싸다.",
+                "소고기가 맛있다.",
+                "소고기를 먹다.",
+                "소고기를 좋아하다."
+            ],
+            "word_E": "beef"
+        }
+    ],
+    "소파": [
+        {
+            "definition_E": "A long, soft chair that one can sit on and rest one's back against.",
+            "definition_K": "등을 기대고 앉을 수 있는, 길고 푹신한 의자.",
+            "examples": [
+                "푹신한 소파.",
+                "소파를 들여놓다.",
+                "소파에 기대다.",
+                "소파에 눕다.",
+                "소파에 걸터앉다.",
+                "소파에 앉다."
+            ],
+            "word_E": "sofa; couch"
+        }
+    ],
+    "수저": [
+        {
+            "definition_E": "A compound noun meaning a spoon and chopsticks",
+            "definition_K": "1.숟가락과 젓가락.",
+            "examples": [
+                "수저 한 벌.",
+                "수저를 놀리다.",
+                "수저를 놓다.",
+                "수저를 사용하다."
+            ],
+            "word_E": "1.spoon and chopsticks"
+        },
+        {
+            "definition_E": "An implement with a long handle, and round, hollow part, used for scooping rice or soup, etc.",
+            "definition_K": "2.밥이나 국 등을 떠먹는 데 쓰는, 둥글고 오목한 부분과 긴 손잡이가 있는 기구.",
+            "examples": [
+                "밥 한 수저.",
+                "수저를 놓다.",
+                "수저를 들다.",
+                "수저를 멈추다."
+            ],
+            "word_E": "2.spoon"
+        }
+    ],
+    "숟가락": [
+        {
+            "definition_E": "A tool with a round, concave part and a long handle used to scoop up rice, soup, etc.",
+            "definition_K": "1.밥이나 국 등을 떠먹는 데 쓰는, 둥글고 오목한 부분과 긴 손잡이가 있는 기구.",
+            "examples": [
+                "나무 숟가락.",
+                "놋쇠 숟가락.",
+                "숟가락을 놓다.",
+                "숟가락을 들다.",
+                "숟가락을 쥐다."
+            ],
+            "word_E": "1.spoon"
+        },
+        {
+            "definition_E": "A unit used to count the amount of food such as rice, etc., one can scoop up with a spoon.",
+            "definition_K": "2.수저로 밥 등의 음식물을 뜨는 분량을 세는 단위.",
+            "examples": [
+                "두 숟가락.",
+                "몇 숟가락.",
+                "세 숟가락.",
+                "한 숟가락.",
+                "한두 숟가락."
+            ],
+            "word_E": "2.spoonful"
+        }
+    ],
+    "시간": [
+        {
+            "definition_E": "The amount of time from one point to another.",
+            "definition_K": "1.어떤 때에서 다른 때까지의 동안.",
+            "examples": [
+                "긴 시간.",
+                "자유로운 시간.",
+                "조용한 시간.",
+                "즐거운 시간.",
+                "짧은 시간.",
+                "한가한 시간.",
+                "시간 낭비.",
+                "시간이 걸리다.",
+                "시간이 소요되다.",
+                "시간을 갖다.",
+                "시간을 보내다.",
+                "시간을 소비하다."
+            ],
+            "word_E": "1.time"
+        },
+        {
+            "definition_E": "A time when one is supposed to do something, or a particular time of day.",
+            "definition_K": "2.어떤 일을 하도록 정해진 때. 또는 하루 중의 어느 한 때.",
+            "examples": [
+                "귀가 시간.",
+                "뉴스 시간.",
+                "도착 시간.",
+                "마감 시간.",
+                "약속 시간.",
+                "출발 시간.",
+                "출근 시간.",
+                "퇴근 시간.",
+                "취침 시간.",
+                "늦은 시간.",
+                "이른 시간.",
+                "시간이 다가오다.",
+                "시간이 임박하다.",
+                "시간을 잡다.",
+                "시간을 정하다.",
+                "시간을 지키다.",
+                "시간에 맞추다."
+            ],
+            "word_E": "2.time"
+        },
+        {
+            "definition_E": "Spare time that one can use to do something.",
+            "definition_K": "3.어떤 일을 할 여유.",
+            "examples": [
+                "시간이 나다.",
+                "시간이 넉넉하다.",
+                "시간이 없다.",
+                "시간이 있다.",
+                "시간을 내다."
+            ],
+            "word_E": "3.time"
+        },
+        {
+            "definition_E": "An interval from the time something starts to the time it ends.",
+            "definition_K": "4.어떤 일이 시작되어 끝날 때까지의 동안.",
+            "examples": [
+                "공부 시간.",
+                "수업 시간.",
+                "식사 시간.",
+                "업무 시간.",
+                "영업 시간.",
+                "자습 시간.",
+                "체육 시간.",
+                "회의 시간.",
+                "휴식 시간.",
+                "시간을 단축하다.",
+                "시간을 연장하다."
+            ],
+            "word_E": "4.time; hours"
+        },
+        {
+            "definition_E": "Time that passes naturally.",
+            "definition_K": "5.자연히 지나가는 세월.",
+            "examples": [
+                "시간이 가다.",
+                "시간이 경과하다.",
+                "시간이 지나다.",
+                "시간이 해결하다.",
+                "시간이 흐르다."
+            ],
+            "word_E": "5.time"
+        }
+    ],
+    "시계": [
+        {
+            "definition_E": "A machine that shows the time.",
+            "definition_K": "시간을 나타내는 기계.",
+            "examples": [
+                "대형 시계.",
+                "야광 시계.",
+                "예물 시계.",
+                "패션 시계.",
+                "시계 바늘.",
+                "시계 반대 방향.",
+                "시계 방향.",
+                "시계 소리.",
+                "시계가 느리다.",
+                "시계가 늦다.",
+                "시계가 멈추다.",
+                "시계가 빠르다.",
+                "시계가 잘 가다.",
+                "시계가 죽다.",
+                "시계를 걸다.",
+                "시계를 고치다.",
+                "시계를 끄르다.",
+                "시계를 들여다보다.",
+                "시계를 보다.",
+                "시계를 수리하다.",
+                "시계를 차다.",
+                "시계를 풀다.",
+                "시계처럼 정확하다."
+            ],
+            "word_E": "clock"
+        }
+    ],
+    "식탁": [
+        {
+            "definition_E": "A table on which food is set to be eaten.",
+            "definition_K": "음식을 차려 놓고 둘러앉아서 먹을 때 쓰는 탁자.",
+            "examples": [
+                "간이 식탁.",
+                "아침 식탁.",
+                "저녁 식탁.",
+                "식탁 매너.",
+                "식탁 예절.",
+                "식탁 의자.",
+                "식탁이 풍성하다.",
+                "식탁을 차리다.",
+                "식탁을 치우다.",
+                "식탁에 내다.",
+                "식탁에 놓다.",
+                "식탁에 둘러앉다.",
+                "식탁에 앉다.",
+                "식탁에 오르다.",
+                "식탁에 올리다.",
+                "식탁에 차리다."
+            ],
+            "word_E": "dining table"
+        }
+    ],
+    "신호등": [
+        {
+            "definition_E": "The device directing the passage of cars or passengers on a road, with colored lights.",
+            "definition_K": "도로에서 색이 있는 불빛으로 자동차나 사람의 통행을 지시하는 장치.",
+            "examples": [
+                "삼색 신호등.",
+                "횡단보도 신호등.",
+                "신호등이 바뀌다.",
+                "신호등을 기다리다.",
+                "신호등을 달아 놓다.",
+                "신호등에 걸리다.",
+                "신호등에 불이 켜지다."
+            ],
+            "word_E": "traffic light; traffic signal"
+        }
+    ],
+    "아파트": [
+        {
+            "definition_E": "A residential building made for many households to live independently in one tall, large building.",
+            "definition_K": "한 채의 높고 큰 건물 안에 여러 가구가 독립하여 살 수 있게 지은 주택.",
+            "examples": [
+                "고층 아파트.",
+                "새 아파트.",
+                "높은 아파트.",
+                "아파트 한 동.",
+                "아파트 한 채.",
+                "아파트 건물.",
+                "아파트 경비원.",
+                "아파트 단지.",
+                "아파트 상가.",
+                "아파트 주차장.",
+                "아파트가 들어서다.",
+                "아파트를 분양하다.",
+                "아파트를 사다.",
+                "아파트를 짓다.",
+                "아파트에 살다.",
+                "아파트에 이사하다.",
+                "아파트에 입주하다."
+            ],
+            "word_E": "apartment; apartment building"
+        }
+    ],
+    "양치질": [
+        {
+            "definition_E": "An act of brushing one's teeth and rinsing one's mouth with water.",
+            "definition_K": "이를 닦고 물로 입 안을 씻어 내는 일.",
+            "examples": [
+                "소금물 양치질.",
+                "바른 양치질.",
+                "잘못된 양치질.",
+                "양치질 세 번.",
+                "양치질 습관.",
+                "양치질을 하다."
+            ],
+            "word_E": "brushing teeth"
+        }
+    ],
+    "얼굴": [
+        {
+            "definition_E": "The front part of the head that has the eyes, nose and mouth.",
+            "definition_K": "1.눈, 코, 입이 있는 머리의 앞쪽 부분.",
+            "examples": [
+                "시커먼 얼굴.",
+                "붉은 얼굴.",
+                "하얀 얼굴.",
+                "얼굴이 그을리다.",
+                "얼굴이 뽀얗다.",
+                "얼굴이 붓다.",
+                "얼굴이 크다.",
+                "얼굴이 타다.",
+                "얼굴을 가리다.",
+                "얼굴에 땀이 흐르다.",
+                "얼굴에 상처가 나다.",
+                "얼굴에 여드름이 나다."
+            ],
+            "word_E": "1.face"
+        },
+        {
+            "definition_E": "The overall appearance or look of the front part of the head.",
+            "definition_K": "2.머리 앞쪽 부분의 전체적인 생김새나 모습.",
+            "examples": [
+                "고운 얼굴.",
+                "못생긴 얼굴.",
+                "무섭게 생긴 얼굴.",
+                "잘생긴 얼굴.",
+                "준수한 얼굴.",
+                "험상궂은 얼굴.",
+                "얼굴이 예쁘다.",
+                "얼굴이 귀엽다.",
+                "얼굴이 낯익다.",
+                "얼굴이 아름답다.",
+                "얼굴을 기억하다.",
+                "얼굴을 익히다.",
+                "얼굴을 잊다."
+            ],
+            "word_E": "2.face"
+        },
+        {
+            "definition_E": "One's reputation, honor, dignitiy and good name that is widely known to people around him/her.",
+            "definition_K": "3.주위에 널리 알려져 얻은 평판, 명예, 체면, 면목.",
+            "examples": [
+                "얼굴이 서다.",
+                "얼굴을 세우다."
+            ],
+            "word_E": "3.face"
+        },
+        {
+            "definition_E": "The look on one's face that represents the state of his/her mind.",
+            "definition_K": "4.어떠한 심리 상태가 겉으로 드러난 표정.",
+            "examples": [
+                "겁에 질린 얼굴.",
+                "고통스러운 얼굴.",
+                "근심스러운 얼굴.",
+                "기쁜 얼굴.",
+                "만족스러운 얼굴.",
+                "실망한 얼굴.",
+                "심각한 얼굴.",
+                "피곤한 얼굴.",
+                "해맑은 얼굴."
+            ],
+            "word_E": "4.look on one's face"
+        },
+        {
+            "definition_E": "A figure that engages in a certain activity.",
+            "definition_K": "5.어떤 활동을 하는 인물.",
+            "examples": [],
+            "word_E": "5.face"
+        },
+        {
+            "definition_E": "Something that is representative of an object or well depicts its true nature.",
+            "definition_K": "6.어떠한 사물을 대표하거나 본래의 모습을 잘 드러내 주는 대표적인 것.",
+            "examples": [
+                "고장의 얼굴.",
+                "마을의 얼굴.",
+                "서울의 얼굴.",
+                "시대의 얼굴.",
+                "우리나라의 얼굴."
+            ],
+            "word_E": "6.face"
+        }
+    ],
+    "역": [
+        {
+            "definition_E": "A place where a train departs and arrives.",
+            "definition_K": "열차가 출발하고 도착하는 곳.",
+            "examples": [
+                "역 광장.",
+                "역 대합실.",
+                "역을 출발하다.",
+                "역에 내리다.",
+                "역에 도착하다.",
+                "역에서 타다."
+            ],
+            "word_E": "station; stop"
+        }
+    ],
+    "열차": [
+        {
+            "definition_E": "A railroad or subway train made of a series of cars linked serially.",
+            "definition_K": "여러 개의 칸을 길게 이어 놓은 기차나 전철.",
+            "examples": [
+                "여객 열차.",
+                "특급 열차.",
+                "화물 열차.",
+                "열차 시간표.",
+                "열차가 달리다.",
+                "열차가 들어서다.",
+                "열차를 타다.",
+                "열차에 오르다."
+            ],
+            "word_E": "train"
+        }
+    ],
+    "요리": [
+        {
+            "definition_E": "An act of making food.",
+            "definition_K": "1.음식을 만듦.",
+            "examples": [
+                "요리 방법.",
+                "요리 비결.",
+                "요리 솜씨.",
+                "요리 연구가.",
+                "요리를 못하다.",
+                "요리를 잘하다.",
+                "요리를 하다.",
+                "요리에 자신이 있다."
+            ],
+            "word_E": "1.cooking"
+        },
+        {
+            "definition_E": "Food made with well-prepared ingredients.",
+            "definition_K": "2.재료를 잘 갖추어 만든 음식.",
+            "examples": [
+                "각종 요리.",
+                "고기 요리.",
+                "궁중 요리.",
+                "버섯 요리.",
+                "볶음 요리.",
+                "서양 요리.",
+                "일상 요리.",
+                "전통 요리.",
+                "중국 요리.",
+                "즉석 요리.",
+                "찌개 요리.",
+                "프랑스 요리.",
+                "한국 요리.",
+                "해물 요리.",
+                "오늘의 요리.",
+                "온갖 요리.",
+                "값비싼 요리.",
+                "근사한 요리.",
+                "맛있는 요리.",
+                "맛좋은 요리.",
+                "손이 많이 가는 요리.",
+                "진귀한 요리.",
+                "특별한 요리.",
+                "요리 맛.",
+                "요리 재료.",
+                "요리 전문점.",
+                "요리를 만들다.",
+                "요리를 먹다."
+            ],
+            "word_E": "2.dish"
+        },
+        {
+            "definition_E": "(slang) An act of managing something or someone skillfully as one wants.",
+            "definition_K": "3.(속된 말로) 어떤 일이나 사람을 자신이 원하는 대로 능숙하게 처리함.",
+            "examples": [
+                "요리를 하다. "
+            ],
+            "word_E": "3.handling"
+        }
+    ],
+    "유리": [
+        {
+            "definition_E": "The material used to make windows, mirrors, etc., that is transparent, hard, and easily broken.",
+            "definition_K": "투명하고 단단하며 잘 깨지는, 창문이나 거울 등에 사용되는 물질.",
+            "examples": [
+                "유리 꽃병.",
+                "유리 접시.",
+                "유리 제품.",
+                "유리 조각.",
+                "유리 창문.",
+                "유리가 깨지다.",
+                "유리를 깨다.",
+                "유리를 깨트리다."
+            ],
+            "word_E": "glass"
+        }
+    ],
+    "음식": [
+        {
+            "definition_E": "A dish such as steamed rice or soup that a person eats at a meal.",
+            "definition_K": "1.밥이나 국 등과 같이 사람이 끼니때 먹는 것.",
+            "examples": [
+                "음식이 맛있다.",
+                "음식이 익다.",
+                "음식을 끓이다.",
+                "음식을 마련하다.",
+                "음식을 먹다.",
+                "음식을 준비하다."
+            ],
+            "word_E": "1.food"
+        },
+        {
+            "definition_E": "Everything that humans eat or drink.",
+            "definition_K": "2.사람이 먹거나 마시는 모든 것.",
+            "examples": [
+                "음식 찌꺼기.",
+                "음식이 상하다.",
+                "음식을 남기다.",
+                "음식을 낭비하다.",
+                "음식을 소화하다."
+            ],
+            "word_E": "2.food"
+        }
+    ],
+    "의자": [
+        {
+            "definition_E": "An apparatus made for a person to sit with his/her hip and thighs placed on it.",
+            "definition_K": "사람이 엉덩이와 허벅지를 대고 걸터앉는 데 쓰는 기구.",
+            "examples": [
+                "식탁 의자.",
+                "책상 의자.",
+                "의자가 놓이다.",
+                "의자를 당기다.",
+                "의자를 밀다.",
+                "의자를 빼다.",
+                "의자를 젖히다.",
+                "의자에 기대다.",
+                "의자에 앉다."
+            ],
+            "word_E": "chair; stool"
+        }
+    ],
+    "이불": [
+        {
+            "definition_E": "Something made of fabric, etc., to cover a person's body when sleeping.",
+            "definition_K": "잘 때 몸을 덮기 위하여 천 등으로 만든 것.",
+            "examples": [
+                "따뜻한 이불.",
+                "두꺼운 이불.",
+                "이불 한 채.",
+                "이불을 개다.",
+                "이불을 깔다.",
+                "이불을 덮다.",
+                "이불을 차다.",
+                "이불을 펴다."
+            ],
+            "word_E": "bedclothes; comforter; blanket"
+        }
+    ],
+    "이웃": [
+        {
+            "definition_E": "The state of being side by side with or close to a region or country.",
+            "definition_K": "1.어떤 지역이나 나라에 나란히 또는 가까이 있음.",
+            "examples": [
+                "이웃 나라.",
+                "이웃 동네.",
+                "이웃 마을.",
+                "이웃의 국경.",
+                "이웃에서 살다."
+            ],
+            "word_E": "1.neighbor"
+        },
+        {
+            "definition_E": "A house that is close to one's own or those who live in the house.",
+            "definition_K": "2.자신이 살고 있는 집과 가까이 있는 집. 또는 거기 사는 사람.",
+            "examples": [
+                "내 이웃.",
+                "우리 이웃.",
+                "가난한 이웃.",
+                "다정한 이웃.",
+                "불우한 이웃.",
+                "친한 이웃.",
+                "이웃 아저씨.",
+                "이웃 아줌마.",
+                "이웃 친구.",
+                "이웃의 도움.",
+                "이웃끼리 모르고 지내다.",
+                "이웃끼리 친하게 지내다."
+            ],
+            "word_E": "2.neighbor"
+        }
+    ],
+    "자동차": [
+        {
+            "definition_E": "A vehicle which moves its wheels by the power of its engine in order to run on roads.",
+            "definition_K": "엔진의 힘으로 바퀴를 굴려서 도로 위를 움직이도록 만든 차.",
+            "examples": [
+                "전기 자동차.",
+                "자동차 한 대.",
+                "자동차 도로.",
+                "자동차 번호판.",
+                "자동차 정비.",
+                "자동차 학원.",
+                "자동차의 속도.",
+                "자동차를 사다.",
+                "자동차를 운전하다."
+            ],
+            "word_E": "car; automobile"
+        }
+    ],
+    "잠": [
+        {
+            "definition_E": "The state of taking a rest for a period of time with one's eyes closed and mental activities suspended.",
+            "definition_K": "1.눈을 감고 몸과 정신의 활동을 멈추고 한동안 쉬는 상태.",
+            "examples": [
+                "깊은 잠.",
+                "잠이 들다.",
+                "잠이 많다.",
+                "잠이 모자라다.",
+                "잠이 부족하다.",
+                "잠이 오다.",
+                "잠을 설치다.",
+                "잠을 자다.",
+                "잠을 쫓다.",
+                "잠을 청하다.",
+                "잠에 빠지다.",
+                "잠에 취하다.",
+                "잠에서 깨다."
+            ],
+            "word_E": "1.sleep"
+        },
+        {
+            "definition_E": "(figurative) The state of not realizing and being aware of something.",
+            "definition_K": "2.(비유적으로) 아직 깨달아 알지 못한 상태.",
+            "examples": [
+                "능력의 잠.",
+                "긴 잠.",
+                "깊은 잠.",
+                "잠에서 깨다.",
+                "잠에 빠지다."
+            ],
+            "word_E": "2.sleep"
+        }
+    ],
+    "접시": [
+        {
+            "definition_E": "A flat, plane-surfaced container to keep food in.",
+            "definition_K": "1.음식을 담는 데 쓰는 납작하고 평평한 그릇.",
+            "examples": [
+                "접시 한 개.",
+                "접시를 깨다.",
+                "접시를 닦다.",
+                "접시를 쌓다.",
+                "접시에 담다.",
+                "접시에 덜다.",
+                "접시에 올리다."
+            ],
+            "word_E": "1.plate"
+        },
+        {
+            "definition_E": "A unit of measuring the quantity of food or cuisine contained in a plate.",
+            "definition_K": "2.음식이나 요리를 접시에 담아 그 분량을 세는 단위.",
+            "examples": [
+                "과일 한 접시.",
+                "과자 두 접시.",
+                "배 한 접시.",
+                "사과 한 접시.",
+                "야채 한 접시."
+            ],
+            "word_E": "2.plate"
+        }
+    ],
+    "젓가락": [
+        {
+            "definition_E": "A pair of long, slender sticks used to pick up things or food to eat.",
+            "definition_K": "1.음식을 집어 먹거나 물건을 집는 데 쓰는 한 쌍의 가늘고 긴 도구.",
+            "examples": [
+                "젓가락 한 벌.",
+                "젓가락 두 매.",
+                "젓가락을 사용하다.",
+                "젓가락을 쓰다."
+            ],
+            "word_E": "1.chopsticks"
+        },
+        {
+            "definition_E": "A unit used to count the amount of food that one can pick up with chopsticks.",
+            "definition_K": "2.음식을 집어 그 분량을 세는 단위.",
+            "examples": [
+                "국수 한 젓가락.",
+                "라면 한 젓가락."
+            ],
+            "word_E": "2.mouthful"
+        }
+    ],
+    "정거장": [
+        {
+            "definition_E": "A place where buses, trains, etc., stop so people can get on and off the vehicle.",
+            "definition_K": "사람이 타고 내릴 수 있게 버스나 기차 등이 멈추는 장소.",
+            "examples": [
+                "버스 정거장.",
+                "정거장 대합실.",
+                "정거장이 붐비다.",
+                "정거장을 지나치다.",
+                "정거장에서 기다리다.",
+                "정거장으로 가다."
+            ],
+            "word_E": "stop; station"
+        }
+    ],
+    "정류장": [
+        {
+            "definition_E": "A place where buses, taxis etc., stop so people can get on and off the vehicle.",
+            "definition_K": "사람이 타고 내릴 수 있게 버스나 택시 등이 멈추는 장소.",
+            "examples": [
+                "버스 정류장.",
+                "정류장을 출발하다.",
+                "정류장을 설치하다.",
+                "정류장에서 정차하다."
+            ],
+            "word_E": "stop"
+        }
+    ],
+    "조용하다": [
+        {
+            "definition_E": "No sound being heard",
+            "definition_K": "1.아무 소리도 들리지 않다.",
+            "examples": [
+                "조용한 교실.",
+                "조용한 방.",
+                "거리가 조용하다.",
+                "방 안이 조용하다.",
+                "사방이 조용하다.",
+                "집이 조용하다.",
+                "쥐 죽은 듯이 조용하다."
+            ],
+            "word_E": "1.quiet"
+        },
+        {
+            "definition_E": "Restrained in speech and gentle in behavior.",
+            "definition_K": "2.말이 적고 행동이 얌전하다.",
+            "examples": [
+                "조용한 친구.",
+                "조용하게 말하다.",
+                "조용하게 생활하다.",
+                "조용하게 일하다.",
+                "조용하게 행동하다.",
+                "성격이 조용하다."
+            ],
+            "word_E": "2.quiet"
+        },
+        {
+            "definition_E": "Peaceful without problems.",
+            "definition_K": "3.문제가 없이 평안하다.",
+            "examples": [
+                "조용한 나날.",
+                "조용한 시절.",
+                "동네가 조용하다.",
+                "세상이 조용하다.",
+                "집안이 조용하다."
+            ],
+            "word_E": "3.quiet"
+        },
+        {
+            "definition_E": "Having peace of mind with emotions calmed down.",
+            "definition_K": "4.감정이 가라앉아 마음이 평안하다.",
+            "examples": [
+                "조용한 마음.",
+                "조용한 모습.",
+                "조용한 상태."
+            ],
+            "word_E": "4.calm"
+        },
+        {
+            "definition_E": "Free and not busy.",
+            "definition_K": "5.바쁘지 않고 한가하다.",
+            "examples": [
+                "가게가 조용하다.",
+                "공장이 조용하다.",
+                "백화점이 조용하다.",
+                "시장이 조용하다.",
+                "작업장이 조용하다."
+            ],
+            "word_E": "5.quiet"
+        },
+        {
+            "definition_E": "Hidden without being revealed to others.",
+            "definition_K": "6.남들에게 드러나지 않고 숨겨지다.",
+            "examples": [
+                "조용하게 가다.",
+                "조용하게 떠나다.",
+                "조용하게 살다.",
+                "조용하게 처리하다.",
+                "조용하게 하다."
+            ],
+            "word_E": "6.quiet"
+        }
+    ],
+    "주소": [
+        {
+            "definition_E": "The administrative name of a place where a house, workplace, organization, etc., is located.",
+            "definition_K": "1.집이나 직장, 기관 등이 위치한 곳의 행정 구역상 이름.",
+            "examples": [
+                "발신인 주소.",
+                "주소가 바뀌다.",
+                "주소를 바꾸다.",
+                "주소를 옮기다.",
+                "주소를 적다."
+            ],
+            "word_E": "1.address"
+        },
+        {
+            "definition_E": "The location of a storage where data reside, or a set of numbers that represents such a location.",
+            "definition_K": "2.데이터가 저장되어 있는 기억 장소의 위치. 또는 그것을 나타내는 수.",
+            "examples": [
+                "사이트 주소.",
+                "이메일 주소.",
+                "홈페이지 주소.",
+                "주소를 사용하다.",
+                "주소를 저장하다."
+            ],
+            "word_E": "2.address"
+        }
+    ],
+    "주차장": [
+        {
+            "definition_E": "A place where one can park his/her car.",
+            "definition_K": "자동차를 세울 수 있는 일정한 장소.",
+            "examples": [
+                "무료 주차장.",
+                "유료 주차장.",
+                "주차장이 좁다.",
+                "주차장을 갖추다.",
+                "주차장을 찾다.",
+                "주차장에 대다.",
+                "주차장에 세우다."
+            ],
+            "word_E": "parking lot"
+        }
+    ],
+    "지하철": [
+        {
+            "definition_E": "An electric vehicle operating on an underground railway.",
+            "definition_K": "1.지하 철도로 다니는 전동차.",
+            "examples": [
+                "편리한 지하철.",
+                "지하철 역.",
+                "지하철이 멈추다.",
+                "지하철을 이용하다.",
+                "지하철을 타다."
+            ],
+            "word_E": "1.subway"
+        },
+        {
+            "definition_E": "An underground railway installed by digging a tunnel.",
+            "definition_K": "2.땅속에 굴을 파서 설치한 철도.",
+            "examples": [
+                "지하철을 개통하다.",
+                "지하철을 건설하다.",
+                "지하철을 놓다.",
+                "지하철을 부설하다.",
+                "지하철을 설치하다."
+            ],
+            "word_E": "2.subway"
+        }
+    ],
+    "집": [
+        {
+            "definition_E": "A structure built by a human or animal to serve as protection from cold, heat, etc., and as a place to live in.",
+            "definition_K": "1.사람이나 동물이 추위나 더위 등을 막고 그 속에 들어 살기 위해 지은 건물.",
+            "examples": [
+                "집을 구하다.",
+                "집을 비우다.",
+                "집을 수리하다.",
+                "집을 잃다.",
+                "집을 짓다.",
+                "집에서 자다."
+            ],
+            "word_E": "1.house"
+        },
+        {
+            "definition_E": "A unit of counting houses built by humans or animals to live in.",
+            "definition_K": "2.사람이나 동물이 살기 위해 지은 건물을 세는 단위.",
+            "examples": [
+                "한 집.",
+                "두 집.",
+                "세네 집.",
+                "몇 집.",
+                "여러 집."
+            ],
+            "word_E": "2.house"
+        },
+        {
+            "definition_E": "A group of people that form a family.",
+            "definition_K": "3.가정을 이루고 생활하는 집안.",
+            "examples": [
+                "가난한 집.",
+                "그리운 집.",
+                "화목한 집.",
+                "집을 나오다.",
+                "집으로 돌아가다."
+            ],
+            "word_E": "3.family"
+        },
+        {
+            "definition_E": "An item that is made for the purpose of holding a sword, gun, glasses, etc.",
+            "definition_K": "4.칼이나 총, 안경 등을 끼거나 담아서 보관할 수 있게 만든 것.",
+            "examples": [
+                "집에 넣다.",
+                "집에서 꺼내다."
+            ],
+            "word_E": "4.case; holster; sheath"
+        },
+        {
+            "definition_E": "In the game of go, an empty space on the board that a player surrounds with his/her stones to keep his/her opponent's stones from entering.",
+            "definition_K": "5.바둑에서, 자기 돌로 에워싸 상대편 돌이 들어올 수 없게 한, 바둑판의 빈 자리.",
+            "examples": [
+                "집을 공격하다.",
+                "집을 늘리다.",
+                "집을 만들다.",
+                "집을 지키다.",
+                "집을 짓다.",
+                "집을 포기하다."
+            ],
+            "word_E": "5.controlled point; surrounded point"
+        },
+        {
+            "definition_E": "In the game of go, a unit of counting empty spaces on the board that a player surrounds with his/her stones to keep his/her opponent's stones from entering.",
+            "definition_K": "6.바둑에서, 자기 돌로 에워싸 상대편 돌이 들어올 수 없게 한 빈 자리를 세는 단위.",
+            "examples": [
+                "한 집.",
+                "두세 집.",
+                "열 집.",
+                "몇 집.",
+                "반 집.",
+                "여러 집."
+            ],
+            "word_E": "6.controlled point; surrounded point"
+        },
+        {
+            "definition_E": "The word that means 'a store that sells products' or 'a store that is in operation.'",
+            "definition_K": "7.‘물건을 파는 가게’ 또는 ‘영업을 하는 가게’의 뜻을 나타내는 말.",
+            "examples": [
+                "고깃집.",
+                "꽃집.",
+                "밥집.",
+                "빵집.",
+                "술집.",
+                "횟집."
+            ],
+            "word_E": "7.store; shop"
+        }
+    ],
+    "차갑다": [
+        {
+            "definition_E": "The touch of something on one's skin being cold.",
+            "definition_K": "1.피부에 닿는 느낌이 차다.",
+            "examples": [
+                "차갑게 굳다.",
+                "차갑게 식다.",
+                "날씨가 차갑다.",
+                "물이 차갑다.",
+                "바람이 차갑다."
+            ],
+            "word_E": "1.cold"
+        },
+        {
+            "definition_E": "One's personality or attitude being unfriendly rather than kind or warm.",
+            "definition_K": "2.성격이나 태도가 상냥하거나 따뜻하지 않고 쌀쌀하다.",
+            "examples": [
+                "차가운 눈초리.",
+                "차가운 목소리.",
+                "차가운 성격.",
+                "차갑게 거절하다.",
+                "차갑게 굴다.",
+                "표정이 차갑다."
+            ],
+            "word_E": "2.cold; icy"
+        }
+    ],
+    "책상": [
+        {
+            "definition_E": "A table at which one reads a book, writes, or handles office work.",
+            "definition_K": "책을 읽거나 글을 쓰거나 사무를 볼 때 앞에 놓고 쓰는 상.",
+            "examples": [
+                "책상 서랍.",
+                "책상을 놓다.",
+                "책상을 정리하다.",
+                "책상을 치다.",
+                "책상에 엎드리다."
+            ],
+            "word_E": "desk"
+        }
+    ],
+    "침대": [
+        {
+            "definition_E": "A piece of furniture that is made for someone to lie down and sleep on.",
+            "definition_K": "사람이 누워서 잘 수 있게 만든 가구.",
+            "examples": [
+                "편안한 침대.",
+                "침대 다리.",
+                "침대 생활.",
+                "침대에 눕다.",
+                "침대에 올라가다.",
+                "침대에서 내려오다.",
+                "침대에서 일어나다.",
+                "침대에서 자다."
+            ],
+            "word_E": "bed"
+        }
+    ],
+    "침실": [
+        {
+            "definition_E": "A room in one’s home, where one usually sleeps.",
+            "definition_K": "집에서 주로 잠을 자는 방.",
+            "examples": [
+                "조용한 침실.",
+                "침실이 아늑하다.",
+                "침실을 청소하다.",
+                "침실로 들어가다.",
+                "침실로 사용하다.",
+                "침실에 눕다."
+            ],
+            "word_E": "bedroom"
+        }
+    ],
+    "칫솔": [
+        {
+            "definition_E": "A brush that is used to clean one's teeth.",
+            "definition_K": "이를 닦는 데 쓰는 솔.",
+            "examples": [
+                "전동 칫솔.",
+                "칫솔 한 개.",
+                "칫솔 한 자루.",
+                "칫솔 모.",
+                "칫솔을 바꾸다.",
+                "칫솔을 챙기다.",
+                "칫솔로 이를 닦다.",
+                "칫솔에 치약을 묻히다."
+            ],
+            "word_E": "toothbrush"
+        }
+    ],
+    "텔레비전": [
+        {
+            "definition_E": "A machine that delivers the images and sound that were sent in waves by a broadcasting station.",
+            "definition_K": "방송국에서 전파로 보내오는 영상과 소리를 받아서 보여 주는 기계.",
+            "examples": [
+                "텔레비전 한 대.",
+                "텔레비전 광고.",
+                "텔레비전 뉴스.",
+                "텔레비전 방송.",
+                "텔레비전 보도.",
+                "텔레비전 수상기.",
+                "텔레비전 시청률.",
+                "텔레비전 영상.",
+                "텔레비전 중계.",
+                "텔레비전 프로그램.",
+                "텔레비전 화면.",
+                "텔레비전을 끄다.",
+                "텔레비전을 보다.",
+                "텔레비전을 시청하다.",
+                "텔레비전을 켜다.",
+                "텔레비전을 틀다.",
+                "텔레비전에 나오다.",
+                "텔레비전에 출연하다."
+            ],
+            "word_E": "TV; television"
+        }
+    ],
+    "혀": [
+        {
+            "definition_E": "The long, red piece of flesh that is in the lower interior part of a human or animal mouth.",
+            "definition_K": "사람이나 동물의 입 안 아래쪽에 있는 길고 붉은 살덩어리.",
+            "examples": [
+                "혀를 깨물다.",
+                "혀를 날름거리다.",
+                "혀를 움직이다.",
+                "혀로 녹이다.",
+                "혀로 핥다."
+            ],
+            "word_E": "tongue"
+        }
+    ],
+    "화장실": [
+        {
+            "definition_E": "A place equipped with a facility where people can urinate or defecate.",
+            "definition_K": "대변과 소변을 몸 밖으로 내보낼 수 있게 시설을 만들어 놓은 곳.",
+            "examples": [
+                "간이 화장실.",
+                "공동 화장실.",
+                "남자 화장실.",
+                "수세식 화장실.",
+                "여자 화장실.",
+                "재래식 화장실.",
+                "화장실 청소.",
+                "화장실에 가다.",
+                "화장실에 다녀오다.",
+                "화장실에 들르다."
+            ],
+            "word_E": "toilet; restroom; bathroom"
+        }
+    ],
+    "횡단보도": [
+        {
+            "definition_E": "A route marked on a road, where people can cross.",
+            "definition_K": "사람이 건너다닐 수 있도록 차도 위에 표시를 해 놓은 길.",
+            "examples": [
+                "사거리의 횡단보도.",
+                "횡단보도 신호등.",
+                "횡단보도 건너편.",
+                "횡단보도를 건너다.",
+                "횡단보도에서 기다리다.",
+                "횡단보도에서 정지하다."
+            ],
+            "word_E": "crosswalk; crossing"
+        }
+    ]
+}
